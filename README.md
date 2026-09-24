@@ -2,7 +2,7 @@
 
 **Master of Engineering student, Electrical and Electronics Engineering · University of Adelaide**
 
-Electronics engineer interested in vibration-based condition monitoring, signal processing, instrumentation, automation, and AI-assisted engineering systems. My work connects experimental engineering with practical software and hardware integration.
+I connect electronics engineering, computer vision and AI, and industrial condition monitoring through practical R&D and software–hardware integration. My current work focuses on careful experimental measurement, signal processing, and useful engineering tools.
 
 I can cook too. 👨‍🍳⚡
 
@@ -20,9 +20,13 @@ An in-progress Master of Engineering research project investigating vibration-ba
 - **Tools and methods:** MATLAB, NI DAQ, LabVIEW, vibration measurement, and signal processing
 - **Measurement boundary:** A0 is vertical and A1 horizontal; current signals are in volts, not calibrated acceleration. DAQ timing, sensor calibration, encoder/RPM mapping, and condition ground truth remain under verification. No validated liner classification or particle-size prediction is claimed.
 
-### Project B — RadioAI
+### Python for Computer Security
 
-A private engineering development project exploring AI-assisted inventory interaction and the integration of conversational interfaces with inventory software. Public details and repository links are omitted while the work remains private.
+A beginner-first learning resource that takes readers from their first Python program through data handling, networking foundations, secure coding, synthetic log analysis, guided labs, and small defensive automation projects. Examples use invented data and local or authorized systems.
+
+- **Start the course:** [Python for Computer Security](https://kritsue.github.io/python-for-computer-security/)
+- **Explore:** [Learning roadmap](https://kritsue.github.io/python-for-computer-security/roadmap/) · [Guided labs](https://kritsue.github.io/python-for-computer-security/labs/)
+- **Repository:** [python-for-computer-security](https://github.com/KritSue/python-for-computer-security)
 
 ### Engineering Study Wiki
 
@@ -30,6 +34,10 @@ An evolving personal knowledge base for engineering study, currently covering Di
 
 - **Wiki website:** [Engineering Study Wiki](https://kritsue.github.io/Engineering-Wiki/)
 - **Repository:** [Engineering-Wiki](https://github.com/KritSue/Engineering-Wiki) *(repository access may be restricted)*
+
+### Project B — RadioAI
+
+A private engineering development project exploring AI-assisted inventory interaction and the integration of conversational interfaces with inventory software. Public details and repository links are omitted while the work remains private.
 
 ## Engineering areas
 
@@ -41,7 +49,7 @@ An evolving personal knowledge base for engineering study, currently covering Di
 
 ## Current focus
 
-Experimental vibration analysis, rotational-machine condition monitoring, measurement quality, signal processing, and AI-assisted engineering tools.
+Experimental vibration analysis, rotational-machine condition monitoring, measurement quality, signal processing, beginner-friendly Python education, and AI-assisted engineering tools.
 
 ## Earlier engineering experience
 
